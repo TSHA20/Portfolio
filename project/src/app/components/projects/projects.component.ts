@@ -107,7 +107,7 @@ export class ProjectsComponent {
                title: "E-Learning Platform for Toddlers",
                description:
                     "Developed a speech recognition-based web app to assist toddlers in learning numbers, alphabets, and shapes.",
-               image: "https://images.unsplash.com/photo-1557821552-17105176677c?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+               image: "https://images.unsplash.com/photo-1557804506-669a67965ba0?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
                tech: ["Angular", "TypeScript", "Python", "Flask"],
                github: "https://github.com/TSHA20/heykid",
           },
@@ -115,7 +115,7 @@ export class ProjectsComponent {
                title: "Clothing Web Application",
                description:
                     "Developed an online clothing web application for Laksiri Batiks, enabling users to browse, filter, and purchase products seamlessly.",
-               image: "https://images.unsplash.com/photo-1557804506-669a67965ba0?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+               image: "https://images.unsplash.com/photo-1557821552-17105176677c?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
                tech: ["React", "JavaScript", "MongoDB", "Express", "Node.js"],
                github: "https://github.com/yourusername/task-manager",
           },
